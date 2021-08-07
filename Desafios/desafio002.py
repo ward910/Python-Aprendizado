@@ -1,4 +1,4 @@
-dia = float (input('Data = '))
+dia = int (input('Data = '))
 mes = (input('Mês = '))
 ano =  int (input('Ano = '))
 
