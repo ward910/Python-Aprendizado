@@ -1,4 +1,4 @@
-TecladoInput = input('Digite algo ')
+TecladoInput = input('Digite algo: ')
 print(f'O tipo primetivo desse valor é {type(TecladoInput)}')
 print(f'Só tem espaços? {TecladoInput.isspace()}')
 print(f'É um número? {TecladoInput.isnumeric()}')

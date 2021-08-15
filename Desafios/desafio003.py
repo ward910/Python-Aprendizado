@@ -1,5 +1,5 @@
-PrimeiroNumero = float (input('Primeiro número '))
-SegundoNumero = float (input('Segundo número '))
+PrimeiroNumero = float (input('Primeiro número: '))
+SegundoNumero = float (input('Segundo número: '))
 
 soma = PrimeiroNumero + SegundoNumero
 
