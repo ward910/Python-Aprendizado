@@ -1,4 +1,4 @@
-from random import s
+from random import shuffle
 
 aluno01 = str(input('Primeiro aluno: '))
 aluno02 = str(input('Segundo aluno: '))
