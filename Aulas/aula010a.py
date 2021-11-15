@@ -7,4 +7,4 @@ print(f'A sua média foi {m:.1f}')
 if (m >= 6):
     print('PARABENS')
 else:
-    print('ESTUDE MAIS!')
+    print('ESTUDE MAIS!!!')
