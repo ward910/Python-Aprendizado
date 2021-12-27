@@ -3,7 +3,7 @@ cont = 0
 
 for c in range(1, 7):
     num = int(input('Digite {} número: '.format(c)))
-    if n % 2 == 0:
+    if num % 2 == 0:
         soma += num
         cont += 1
 
